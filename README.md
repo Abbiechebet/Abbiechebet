@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abigael Chebet</h1>
-<h3 align="center">A passionate software engineer and an incredibly curious person. I love collaborating with other engineers to build amazing things.</h3>
+<h1 align="center">Hello 👋, I'm Abigael Chebet</h1>
+<h3 align="center">I'm a Software Engineer who is currently open to work as a Backend developer, either in -person or remotely. I have experience in designing and implementing RESTful APIs, working with database, and ensuring the performance and reliability of server side applications. I'm passionate about building innovative and impactful solutions that solve real-world problems, sharing knowledge and others</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbiechebet&label=Profile%20views&color=0e75b6&style=flat" alt="abbiechebet" /> </p>
 
 - 🌱 I’m currently learning **more JavaScript Frameworks**
 
-- 👯 I’m looking to collaborate on more **Nodejs and JavaScript framework Applications.**
+- 👯 I’m looking for help with entry-level opportunities or internships, and open source projects.**
 
-- 💬 Ask me about **Nodejs, Express and MongoDB**
+- 💬 Ask me about **Nodejs, Express, Git, Github and MongoDB**
 
 - 📫 How to reach me **abigaelchebet85@gmail.com**
 
