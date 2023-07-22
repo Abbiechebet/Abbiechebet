@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abigaelchebet85@gmail.com**
 
-- ⚡ Fun fact **I can listen to a single song repeatedly and still be enjoying.**
+- ⚡ Fun fact **The best thing about a boolean is even if you are wrong, you are only off by a bit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
