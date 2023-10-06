@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **more JavaScript Frameworks**
 
-- 👯 I’m looking for help with entry-level opportunities or internships, and open source projects.**
-
-- 💬 Ask me about **Nodejs, Express, Git, Github and MongoDB**
-
 - 📫 How to reach me **abigaelchebet85@gmail.com**
 
 - ⚡ Fun fact **The best thing about a boolean is even if you are wrong, you are only off by a bit.**
