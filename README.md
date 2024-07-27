@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Abigael Chebet</h1>
-<h3 align="center">I'm a Software Engineer who is currently open to work as a Backend developer, either in -person or remotely. I have experience in designing and implementing RESTful APIs, working with database, and ensuring the performance and reliability of server side applications. I'm passionate about building innovative and impactful solutions that solve real-world problems, sharing knowledge and others</h3>
+<h3 align="center">I am a Software Engineer actively seeking new opportunities as a Backend Developer, available for in-person or remote work. I have extensive experience in designing and implementing RESTful APIs, working with databases, and ensuring the performance and reliability of server-side applications. I am proficient in Node.js and the Spring Boot framework. Passionate about building innovative and impactful solutions that solve real-world problems, I also enjoy sharing knowledge and collaborating with others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbiechebet&label=Profile%20views&color=0e75b6&style=flat" alt="abbiechebet" /> </p>
 
-- 🌱 I’m currently learning **more JavaScript Frameworks**
+- 🌱 I’m currently focusing on more **Java projects**.
 
 - 📫 How to reach me **abigaelchebet85@gmail.com**
 
-- ⚡ Fun fact **The best thing about a boolean is even if you are wrong, you are only off by a bit.**
+- ⚡ Fun fact **I’m a code enthusiast who believes that debugging is like being the detective in a crime movie where you are also the murderer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
