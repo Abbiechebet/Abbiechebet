@@ -58,9 +58,6 @@
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
   </a>
-  <a href="https://camel.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_camel/apache_camel-icon.svg" alt="apache camel" width="40" height="40"/>
-  </a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
   </a>
