@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abigael Chebet</h1>
-<h3 align="center">I am a Software Engineer actively seeking new opportunities as a Backend Developer, available for in-person or remote work. I have extensive experience in designing and implementing RESTful APIs, working with databases, and ensuring the performance and reliability of server-side applications. I am proficient in Node.js and the Spring Boot framework. Passionate about building innovative and impactful solutions that solve real-world problems, I also enjoy sharing knowledge and collaborating with others.</h3>
+<h3 align="center">I am a Back End Developer with extensive experience in designing and implementing RESTful APIs, working with databases, and ensuring the performance and reliability of server-side applications. I am proficient in Node.js and the Spring Boot framework. Passionate about building innovative and impactful solutions that solve real-world problems, I also enjoy sharing knowledge and collaborating with others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbiechebet&label=Profile%20views&color=0e75b6&style=flat" alt="abbiechebet" /> </p>
 
